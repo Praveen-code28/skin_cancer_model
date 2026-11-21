@@ -217,8 +217,7 @@ marimo/_lsp/
 __marimo__/
 
 # Local data and generated model artifacts
-/dataset/*
-!/dataset/README.md
+/dataset/
 /skin_cancer_pipeline/results/
 /skin_cancer_pipeline/.venv/
 /.vscode/
